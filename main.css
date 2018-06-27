@@ -1,0 +1,24 @@
+.container {
+    width:90%;
+    height: auto;
+    align-content: center;
+}
+
+h1{
+    text-align: center;
+    
+}
+.picture{
+    display: inline-block;
+    margin:20px;
+    
+}
+
+button{
+    display:block;
+    align-content: center;
+    margin-left: 440px;
+    width:75px;
+    height:30px;
+    font-size: larger;
+}
